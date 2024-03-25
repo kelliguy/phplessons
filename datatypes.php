@@ -19,7 +19,7 @@
    //BooLean 
 
    //Array 
-   $names = array("Kelli","Grecia","Chad");
+   $names = array("Kelli","Grecia","Coach");
    echo $names['2']
 
     ?>
